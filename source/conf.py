@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Programming Lanugages'
+project = 'Programming-Lanugages'
 copyright = '2022, Leonardo Ferrisi'
 author = 'Leonardo Ferrisi'
 
-release = '0.2'
-version = '0.2.0'
+release = '0.4'
+version = '0.4.0'
 
 # -- General configuration
 
